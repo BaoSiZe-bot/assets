@@ -1,2 +1,2 @@
 # assets
-Some pictures
+只是一个图床。
