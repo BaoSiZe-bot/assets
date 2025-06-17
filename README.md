@@ -1,0 +1,2 @@
+# assets
+Some pictures
